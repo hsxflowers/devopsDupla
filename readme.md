@@ -12,7 +12,7 @@ git clone *link do repositório*
 
 ## Usage
 
-Para sincronizar o projeto foi utilizado a IDE VScode junto da extensão Live Server, ao seleciona-la o projeto ira rodar automaticamente. Ou também pode ser utilizado um ambiente que simule um servidor.
+Para sincronizar o projeto foi utilizado a IDE VScode (https://code.visualstudio.com/download) junto da extensão Live Server, ao seleciona-la o projeto ira rodar automaticamente. Ou também pode ser utilizado um ambiente que simule um servidor.
 
 Sincroniza normalmente em todos os navegadores.
 
